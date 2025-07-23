@@ -30,5 +30,5 @@ As principais tecnologias e linguagens neste repositório incluem:
 
 ## Contato
 
-* **LinkedIn:** `linkedin.com/in/kvpergentino`
-* **GitHub:** `github.com/kvpergentino`
+* **LinkedIn:** [linkedin.com/in/kvpergentino](https://linkedin.com/in/kvpergentino)
+* **GitHub:** [github.com/kvpergentino](https://github.com/kvpergentino)
