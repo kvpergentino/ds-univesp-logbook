@@ -1,0 +1,51 @@
+# -------------------------
+# Python
+# -------------------------
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Cache de bytecode e otimizações
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de configuração de ambiente
+.env
+
+# Pacotes de distribuição/build
+build/
+dist/
+*.egg-info/
+
+
+# -------------------------
+# C/C++ & Assembly
+# -------------------------
+# Arquivos compilados e de objeto
+*.o
+*.out
+*.exe
+*.dll
+*.obj
+*.lst
+
+
+# -------------------------
+# Sistema e IDEs
+# -------------------------
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE e editores
+.vscode/
+.idea/
+
+# Logs
+*.log
