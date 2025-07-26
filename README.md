@@ -1,6 +1,6 @@
 # Data Science UNIVESP Logbook
 
-Este repositório contém minhas anotações pessoais e implementações de código referentes às disciplinas do Bacharelado em Ciência de Dados (BCD) pela Universidade Virtual do Estado de São Paulo (UNIVESP).
+Este repositório contém minhas anotações pessoais e implementações de código referentes às disciplinas do Bacharelado em Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP).
 
 O conteúdo está organizado por disciplina e inclui anotações, implementações de código e outros artefatos de projetos desenvolvidos ao longo do curso, a partir do 3º semestre.
 
